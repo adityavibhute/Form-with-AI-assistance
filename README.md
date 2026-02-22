@@ -111,30 +111,3 @@ HF_TOKEN=your_huggingface_token
 
 
 Create a `.env` file inside the `server` folder.
-
----
-
-# 🧠 Why This Project?
-
-This application demonstrates:
-
-- Multi-step form architecture
-- Reusable component design
-- Form validation best practices
-- AI API integration
-- Error handling with fallback logic
-- Clean UI using Tailwind CSS
-
----
-
-# 📌 Important Notes
-
-- Backend must be running before using AI assistance.
-- If HuggingFace API is rate-limited, fallback text will be used.
-- Designed for development environment (`localhost` setup).
-
----
-
-# 👨‍💻 Author
-
-Built with ❤️ using React + Express + AI integration.
