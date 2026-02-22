@@ -1,0 +1,92 @@
+{
+  "title": "بوابة المساعدات - حكومة دبي",
+  "next": "التالي",
+  "back": "السابق",
+  "submit": "إرسال",
+  "PersonalInfoText": "المعلومات الشخصية",
+  "FinancialInfo": "معلومات الأسرة والمالية",
+  "SituationDescriptions": "وصف الحالة",
+  "welcomeMessage": "منصة حكومة دولة الإمارات العربية المتحدة",
+  "welcomeSubMessage": "وجهة واحدة لجميع الخدمات الحكومية في دولة الإمارات العربية المتحدة",
+  "labels": {
+    "step1": {
+      "firstName": "الاسم الأول",
+      "lastName": "اسم العائلة",
+      "nationalId": "رقم الهوية الوطنية",
+      "dob": "تاريخ الميلاد",
+      "country": "الدولة",
+      "phone": "رقم الهاتف",
+      "email": "البريد الإلكتروني",
+      "state": "المنطقة/الإمارة",
+      "city": "المدينة"
+    },
+    "step2": {
+      "maritalStatus": "الحالة الاجتماعية",
+      "dependents": "عدد المعالين",
+      "employmentStatus": "الحالة الوظيفية",
+      "monthlyIncome": "الدخل الشهري",
+      "housingStatus": "حالة السكن",
+      "staticoptions": {
+        "maritalStatus": {
+          "placeholder": "اختر الحالة الاجتماعية",
+          "single": "أعزب",
+          "married": "متزوج",
+          "divorced": "مطلق",
+          "widowed": "أرمل"
+        },
+        "employmentStatus": {
+          "placeholder": "اختر الحالة الوظيفية",
+          "employed": "موظف",
+          "unemployed": "عاطل عن العمل",
+          "self-employed": "عمل حر",
+          "retired": "متقاعد"
+        },
+        "housingStatus": {
+          "placeholder": "اختر حالة السكن",
+          "own": "ملك",
+          "rent": "إيجار"
+        }
+      }
+    },
+    "step3": {
+      "financial": "الوضع المالي الحالي",
+      "employment": "ظروف العمل",
+      "reason": "سبب التقديم",
+      "helptext": "ساعدني في الكتابة",
+      "generating": "جارٍ توليد الاقتراح..."
+    }
+  },
+  "validation": {
+    "step1": {
+      "firstName": "الاسم الأول مطلوب",
+      "lastName": "اسم العائلة مطلوب",
+      "nationalId": "رقم الهوية الوطنية مطلوب",
+      "dob": "تاريخ الميلاد مطلوب",
+      "email": "البريد الإلكتروني مطلوب",
+      "country": "الدولة مطلوبة",
+      "phone": "رقم الهاتف مطلوب",
+      "state": "المنطقة مطلوبة",
+      "city": "المدينة مطلوبة",
+      "idNumber": "رقم الهوية الوطنية مطلوب",
+      "invalidIdNumber": "تنسيق رقم الهوية غير صالح للدولة المحددة"
+    },
+    "step2": {
+      "maritalStatus": "الحالة الاجتماعية مطلوبة",
+      "dependents": "عدد المعالين مطلوب",
+      "employmentStatus": "الحالة الوظيفية مطلوبة",
+      "monthlyIncome": "الدخل الشهري مطلوب",
+      "housingStatus": "حالة السكن مطلوبة"
+    },
+    "step3": {
+      "financial": "الوضع المالي الحالي مطلوب (10 أحرف على الأقل)",
+      "employment": "ظروف العمل مطلوبة (10 أحرف على الأقل)",
+      "reason": "سبب التقديم مطلوب (10 أحرف على الأقل)"
+    }
+  },
+  "timeoutError": "انتهت مهلة الطلب. يرجى المحاولة مرة أخرى.",
+  "serverError": "حدث خطأ أثناء معالجة طلبك. يرجى المحاولة مرة أخرى لاحقًا.",
+  "footerText": "حكومة دبي. جميع الحقوق محفوظة.",
+  "successtext": "نجاح!",
+  "successMessage": "تم تقديم طلبك بنجاح!",
+  "submitAnother": "تقديم طلب آخر"
+}

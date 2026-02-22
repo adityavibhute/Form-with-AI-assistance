@@ -1,0 +1,92 @@
+{
+  "title": "Dubai Government Assistance Portal",
+  "next": "Next",
+  "back": "Back",
+  "submit": "Submit",
+  "welcomeMessage": "The United Arab Emirates’ Government Platform",
+  "welcomeSubMessage": "Your one-stop destination for all government services in the UAE.",
+  "PersonalInfoText": "Personal Information",
+  "FinancialInfo": "Family & Financial Info",
+  "SituationDescriptions": "Situation Description",
+  "labels": {
+    "step1": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "nationalId": "National ID",
+      "dob": "Date of Birth",
+      "country": "Country",
+      "phone": "Phone Number",
+      "email": "Email",
+      "state": "State/Emirate",
+      "city": "City"
+    },
+    "step2": {
+      "maritalStatus": "Marital Status",
+      "dependents": "Number of Dependents",
+      "employmentStatus": "Employment Status",
+      "monthlyIncome": "Monthly Income",
+      "housingStatus": "Housing Status",
+      "staticoptions": {
+        "maritalStatus": {
+          "placeholder": "Select Marital Status",
+          "single": "Single",
+          "married": "Married",
+          "divorced": "Divorced",
+          "widowed": "Widowed"
+        },
+        "employmentStatus": {
+          "placeholder": "Select Employment Status",
+          "employed": "Employed",
+          "unemployed": "Unemployed",
+          "self-employed": "Self-employed",
+          "retired": "Retired"
+        },
+        "housingStatus": {
+          "placeholder": "Select Housing Status",
+          "own": "Own",
+          "rent": "Rent"
+        }
+      }
+    },
+    "step3": {
+      "financial": "Current Financial Situation",
+      "employment": "Employment Circumstances",
+      "reason": "Reason for Applying",
+      "helptext": "Help Me Write",
+      "generating": "Generating suggestion..."
+    }
+  },
+  "validation": {
+    "step1": {
+        "firstName": "First name is required",
+        "lastName": "Last name is required",
+        "nationalId": "National ID is required",
+        "dob": "Date of birth is required",
+        "email": "Email is required",
+        "country": "Country is required",
+        "phone": "Phone number is required",
+        "state": "State is required",
+        "city": "City is required",
+        "idNumber": "National ID is required",
+        "invalidIdNumber": "Invalid ID format for selected country"
+    },
+    "step2": {
+        "maritalStatus": "Marital status is required",
+        "dependents": "Number of dependents is required",
+        "employmentStatus": "Employment status is required",
+        "monthlyIncome": "Monthly income is required",
+        "housingStatus": "Housing status is required"
+    },
+    "step3": {
+        "financial": "Current financial situation is required (min 10 characters)",
+        "employment": "Employment circumstances is required (min 10 characters)",
+        "reason": "Reason for applying is required (min 10 characters)"
+    }
+  },
+  "timeoutError": "The request timed out. Please try again.",
+  "serverError": "An error occurred while processing your request. Please try again later.",
+  "footerText": "Dubai Government. All rights reserved.",
+  "successtext":"Success!",
+  "successMessage": "Your application has been submitted successfully!",
+  "submitAnother": "Submit Another Application"
+}
